@@ -14,7 +14,7 @@ I built my portfolio using React JS. I use VS Code as my main IDE and plan to ho
 # Useful Websites
 ## React Docs
 ## Npm JS
-## Email JShttps://codepen.io/
+## Email JS
 ## Codepen
 ## Stack Overflow
 # Future Work
